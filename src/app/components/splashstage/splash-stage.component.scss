@@ -1,0 +1,6 @@
+@import "src/app/styles/index";
+
+.splashStage {
+  height: calc(100vh - #{$header-height});
+  width: 100%;
+}
